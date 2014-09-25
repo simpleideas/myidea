@@ -1,4 +1,3 @@
 myidea
 ======
-
-a simple idea.
+随便写点什么吧...
