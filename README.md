@@ -1,0 +1,4 @@
+myidea
+======
+
+a simple idea.
